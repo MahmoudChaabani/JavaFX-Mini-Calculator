@@ -48,6 +48,7 @@ The project is divided into two main parts:
 
 ## Screenshot
 
+CalculatorApp/src/Calculator.png
 
 
 ## Future Improvements
