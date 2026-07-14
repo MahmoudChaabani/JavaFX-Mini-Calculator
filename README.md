@@ -48,7 +48,7 @@ The project is divided into two main parts:
 
 ## Screenshot
 
-CalculatorApp/src/Calculator.png
+![Calculator Screenshot](calculator.png)
 
 
 ## Future Improvements
