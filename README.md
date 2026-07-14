@@ -25,9 +25,15 @@ This project includes a graphical user interface, button event handling, and cus
 - CSS (for interface styling)
 
 ## Project Structure
+
+```text
 src/
-├── CalculatorInterface.java # JavaFX user interface
-└── Calculation.java # Calculation logic
+├── CalculatorInterface.java
+└── Calculation.java
+
+CalculatorInterfaceCss/
+└── CalculatorInterface.css
+```
 
 CalculatorInterfaceCss/
 └── CalculatorInterface.css # Interface styling
